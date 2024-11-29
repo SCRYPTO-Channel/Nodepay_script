@@ -1,0 +1,8 @@
+aiohttp
+cloudscraper
+loguru
+fake-useragent
+colorama
+
+
+
